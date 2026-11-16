@@ -1,1 +1,1 @@
-# BMT209 Proje Ödev Dosyaları
+# BMT209 Proje Ödevi Dosyaları
